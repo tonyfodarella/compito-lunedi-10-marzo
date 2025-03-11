@@ -1,0 +1,13 @@
+img {
+    width: 50%;
+    height: auto;
+}
+
+p {
+    font-style: italic;
+}
+
+li{
+    color: red;
+    font-size: large;
+}
